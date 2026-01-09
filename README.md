@@ -35,6 +35,8 @@ A simple and responsive **Weather Forecast Web Application** built using **HTML,
 ## 📸 Screenshots
 
 ![Weather App Screenshot](Screenshot%20(437).png)
+![Weather App Screenshot](Screenshot%20(436).png)
+![Weather App Screenshot](Screenshot%20(439).png)
 
 *(Optional: You can add a screenshot later)*
 
